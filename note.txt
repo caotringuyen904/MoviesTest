@@ -1,0 +1,12 @@
+get data and panigation
+tai sao phai panigation phia backend ?
+- tranh load het data do nang, do chiem nhieu tai nguyen phia client.
+
+
+react-infinit-scroll-component .....giong fb scroll khi dung mang xh
+
+
+Quy trinh update (put)
+- handleClick -> page form update kem params la id product -> getById: get product theo id show ra form.
+- sau khi co thong tin product trong form. check if(!id) create product, else, edit product
+

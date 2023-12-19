@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cloudinary": "^1.41.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.3",
+    "joi": "^17.11.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.0.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.0.1"
+  },
+  "scripts": {
+    "start": "nodemon --inspect server.js",
+    "dev": "nodemon --inspect server.js"
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "description": "server of foodblog",
+  "main": "server.js",
+  "author": "team3-UIT",
+  "license": "ISC"
+}
